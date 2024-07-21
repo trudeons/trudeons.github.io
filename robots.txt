@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trudeons.github.io/sitemap
+Sitemap: https://trudeons.github.io/app/sitemap
+Sitemap: https://trudeons.github.io/assets/sitemap
+Sitemap: https://trudeons.github.io/css/sitemap
+Sitemap: https://trudeons.github.io/includes/sitemap
+Sitemap: https://trudeons.github.io/item/sitemap
+Sitemap: https://trudeons.github.io/src/sitemap
